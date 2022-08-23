@@ -1,0 +1,15 @@
+{
+  "name": "users-mongoose-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.5.2",
+    "ip": "^1.1.8",
+    "mongoose": "^6.5.2"
+  }
+}
